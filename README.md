@@ -1,6 +1,6 @@
 # simonecarduccii.github.io
 
-Sito principale di `bohememag.it` (GitHub Pages). Il file `CNAME` con il dominio si aggiunge solo dopo il cambio DNS su OVH, altrimenti il vecchio indirizzo smette di funzionare.
+Sito principale di `bohememag.it` (GitHub Pages). Dominio nel file `CNAME`.
 
 - `index.html` — pagina provvisoria di bohememag.it (logo, Open call, Instagram).
 - `/opencalls/` — non sta qui: è il repository `opencalls` (sito dei bandi
