@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /opencalls/admin/
+
+Sitemap: https://bohememag.it/opencalls/sitemap.xml
